@@ -1,0 +1,61 @@
+D:\Programare\ProgramareC#\Projects\T55.Excel[HUGE BUG]\GenerareData\GenerareData\bin\Debug\GenerareData.exe.config
+D:\Programare\ProgramareC#\Projects\T55.Excel[HUGE BUG]\GenerareData\GenerareData\bin\Debug\GenerareData.exe
+D:\Programare\ProgramareC#\Projects\T55.Excel[HUGE BUG]\GenerareData\GenerareData\bin\Debug\GenerareData.pdb
+D:\Programare\ProgramareC#\Projects\T55.Excel[HUGE BUG]\GenerareData\GenerareData\obj\Debug\GenerareData.Form1.resources
+D:\Programare\ProgramareC#\Projects\T55.Excel[HUGE BUG]\GenerareData\GenerareData\obj\Debug\GenerareData.Properties.Resources.resources
+D:\Programare\ProgramareC#\Projects\T55.Excel[HUGE BUG]\GenerareData\GenerareData\obj\Debug\GenerareData.csproj.GenerateResource.Cache
+D:\Programare\ProgramareC#\Projects\T55.Excel[HUGE BUG]\GenerareData\GenerareData\obj\Debug\GenerareData.exe
+D:\Programare\ProgramareC#\Projects\T55.Excel[HUGE BUG]\GenerareData\GenerareData\obj\Debug\GenerareData.pdb
+D:\Programare\ProgramareC#\Projects\T55.Excel[HUGE BUG]\GenerareData\GenerareData\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\Programare\ProgramareC#\Projects\T55.Excel[HUGE BUG]\GenerareData\GenerareData\obj\Debug\GenerareData.csproj.ResolveComReference.cache
+D:\Programare\ProgramareC#\Projects\T55.Excel[HUGE BUG]\GenerareData\GenerareData\obj\Debug\GenerareData.csprojResolveAssemblyReference.cache
+D:\Programare\ProgramareC#\Projects\T55.Excel[HUGE BUG]\GenerareData - Copy\GenerareData\bin\Debug\GenerareData.exe.config
+D:\Programare\ProgramareC#\Projects\T55.Excel[HUGE BUG]\GenerareData - Copy\GenerareData\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\Programare\ProgramareC#\Projects\T55.Excel[HUGE BUG]\GenerareData - Copy\GenerareData\obj\Debug\GenerareData.csproj.ResolveComReference.cache
+D:\Programare\ProgramareC#\Projects\T55.Excel[HUGE BUG]\GenerareData - Copy\GenerareData\obj\Debug\GenerareData.exe
+D:\Programare\ProgramareC#\Projects\T55.Excel[HUGE BUG]\GenerareData - Copy\GenerareData\obj\Debug\GenerareData.pdb
+D:\Programare\ProgramareC#\Projects\T55.Excel[HUGE BUG]\GenerareData - Copy\GenerareData\bin\Debug\GenerareData.exe
+D:\Programare\ProgramareC#\Projects\T55.Excel[HUGE BUG]\GenerareData - Copy\GenerareData\bin\Debug\GenerareData.pdb
+D:\Programare\ProgramareC#\Projects\T55.Excel[HUGE BUG]\GenerareData - Copy\GenerareData\obj\Debug\GenerareData.csprojResolveAssemblyReference.cache
+D:\Programare\ProgramareC#\Projects\T55.Excel[HUGE BUG]\GenerareData - Copy\GenerareData\obj\Debug\GenerareData.Form1.resources
+D:\Programare\ProgramareC#\Projects\T55.Excel[HUGE BUG]\GenerareData - Copy\GenerareData\obj\Debug\GenerareData.Properties.Resources.resources
+D:\Programare\ProgramareC#\Projects\T55.Excel[HUGE BUG]\GenerareData - Copy\GenerareData\obj\Debug\GenerareData.csproj.GenerateResource.Cache
+D:\Programare\ProgramareC#\Projects\T55.Excel[HUGE BUG]\GenerareData - v1.1\GenerareData\bin\Debug\GenerareData.exe.config
+D:\Programare\ProgramareC#\Projects\T55.Excel[HUGE BUG]\GenerareData - v1.1\GenerareData\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\Programare\ProgramareC#\Projects\T55.Excel[HUGE BUG]\GenerareData - v1.1\GenerareData\obj\Debug\GenerareData.csproj.ResolveComReference.cache
+D:\Programare\ProgramareC#\Projects\T55.Excel[HUGE BUG]\GenerareData - v1.1\GenerareData\obj\Debug\GenerareData.exe
+D:\Programare\ProgramareC#\Projects\T55.Excel[HUGE BUG]\GenerareData - v1.1\GenerareData\obj\Debug\GenerareData.pdb
+D:\Programare\ProgramareC#\Projects\T55.Excel[HUGE BUG]\GenerareData - v1.1\GenerareData\bin\Debug\GenerareData.exe
+D:\Programare\ProgramareC#\Projects\T55.Excel[HUGE BUG]\GenerareData - v1.1\GenerareData\bin\Debug\GenerareData.pdb
+D:\Programare\ProgramareC#\Projects\T55.Excel[HUGE BUG]\GenerareData - v1.1\GenerareData\obj\Debug\GenerareData.csprojResolveAssemblyReference.cache
+D:\Programare\ProgramareC#\Projects\T55.Excel[HUGE BUG]\GenerareData - v1.1\GenerareData\obj\Debug\GenerareData.Form1.resources
+D:\Programare\ProgramareC#\Projects\T55.Excel[HUGE BUG]\GenerareData - v1.1\GenerareData\obj\Debug\GenerareData.Properties.Resources.resources
+D:\Programare\ProgramareC#\Projects\T55.Excel[HUGE BUG]\GenerareData - v1.1\GenerareData\obj\Debug\GenerareData.csproj.GenerateResource.Cache
+D:\Programare\ProgramareC#\Projects\T55.Excel[HUGE BUG]\GenerareData - v1.1.1\GenerareData\bin\Debug\GenerareData.exe.config
+D:\Programare\ProgramareC#\Projects\T55.Excel[HUGE BUG]\GenerareData - v1.1.1\GenerareData\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\Programare\ProgramareC#\Projects\T55.Excel[HUGE BUG]\GenerareData - v1.1.1\GenerareData\obj\Debug\GenerareData.csproj.ResolveComReference.cache
+D:\Programare\ProgramareC#\Projects\T55.Excel[HUGE BUG]\GenerareData - v1.1.1\GenerareData\obj\Debug\GenerareData.exe
+D:\Programare\ProgramareC#\Projects\T55.Excel[HUGE BUG]\GenerareData - v1.1.1\GenerareData\obj\Debug\GenerareData.pdb
+D:\Programare\ProgramareC#\Projects\T55.Excel[HUGE BUG]\GenerareData - v1.1.1\GenerareData\bin\Debug\GenerareData.exe
+D:\Programare\ProgramareC#\Projects\T55.Excel[HUGE BUG]\GenerareData - v1.1.1\GenerareData\bin\Debug\GenerareData.pdb
+D:\Programare\ProgramareC#\Projects\T55.Excel[HUGE BUG]\GenerareData - v1.1.1\GenerareData\obj\Debug\GenerareData.csprojResolveAssemblyReference.cache
+D:\Programare\ProgramareC#\Projects\T55.Excel[HUGE BUG]\GenerareData - v1.1.1\GenerareData\obj\Debug\GenerareData.Form1.resources
+D:\Programare\ProgramareC#\Projects\T55.Excel[HUGE BUG]\GenerareData - v1.1.1\GenerareData\obj\Debug\GenerareData.Properties.Resources.resources
+D:\Programare\ProgramareC#\Projects\T55.Excel[HUGE BUG]\GenerareData - v1.1.1\GenerareData\obj\Debug\GenerareData.csproj.GenerateResource.Cache
+D:\Programare\ProgramareC#\Projects\T55.Excel[HUGE BUG]\GenerareData - v1.1.1\GenerareData\obj\Debug\GenerareData.Form2.resources
+D:\Programare\ProgramareC#\Projects\T55.Excel[HUGE BUG]\GenerareData - v1.1.1\GenerareData\bin\Debug\EPPlus.dll
+D:\Programare\ProgramareC#\Projects\T55.Excel[HUGE BUG]\GenerareData - v1.1.1\GenerareData\bin\Debug\EPPlus.xml
+D:\Programare\ProgramareC#\Projects\T55.Excel[FIXED]\GenerareData - v1.1.1\GenerareData\bin\Debug\GenerareData.exe.config
+D:\Programare\ProgramareC#\Projects\T55.Excel[FIXED]\GenerareData - v1.1.1\GenerareData\bin\Debug\GenerareData.exe
+D:\Programare\ProgramareC#\Projects\T55.Excel[FIXED]\GenerareData - v1.1.1\GenerareData\bin\Debug\GenerareData.pdb
+D:\Programare\ProgramareC#\Projects\T55.Excel[FIXED]\GenerareData - v1.1.1\GenerareData\bin\Debug\EPPlus.dll
+D:\Programare\ProgramareC#\Projects\T55.Excel[FIXED]\GenerareData - v1.1.1\GenerareData\bin\Debug\EPPlus.xml
+D:\Programare\ProgramareC#\Projects\T55.Excel[FIXED]\GenerareData - v1.1.1\GenerareData\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\Programare\ProgramareC#\Projects\T55.Excel[FIXED]\GenerareData - v1.1.1\GenerareData\obj\Debug\GenerareData.csproj.ResolveComReference.cache
+D:\Programare\ProgramareC#\Projects\T55.Excel[FIXED]\GenerareData - v1.1.1\GenerareData\obj\Debug\GenerareData.Form1.resources
+D:\Programare\ProgramareC#\Projects\T55.Excel[FIXED]\GenerareData - v1.1.1\GenerareData\obj\Debug\GenerareData.Properties.Resources.resources
+D:\Programare\ProgramareC#\Projects\T55.Excel[FIXED]\GenerareData - v1.1.1\GenerareData\obj\Debug\GenerareData.csproj.GenerateResource.cache
+D:\Programare\ProgramareC#\Projects\T55.Excel[FIXED]\GenerareData - v1.1.1\GenerareData\obj\Debug\GenerareData.csproj.CoreCompileInputs.cache
+D:\Programare\ProgramareC#\Projects\T55.Excel[FIXED]\GenerareData - v1.1.1\GenerareData\obj\Debug\GenerareData.csproj.CopyComplete
+D:\Programare\ProgramareC#\Projects\T55.Excel[FIXED]\GenerareData - v1.1.1\GenerareData\obj\Debug\GenerareData.exe
+D:\Programare\ProgramareC#\Projects\T55.Excel[FIXED]\GenerareData - v1.1.1\GenerareData\obj\Debug\GenerareData.pdb
